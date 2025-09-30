@@ -1,5 +1,5 @@
 # wordle-solver
-A simple program that solves the wordle game with an average score of 3.67
+A simple program that solves the wordle game with an average score of 3.64
 
 The game can be played at https://bosorioo.github.io/wordle-unlimited/
 
