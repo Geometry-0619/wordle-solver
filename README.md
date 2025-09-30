@@ -44,7 +44,7 @@ The correct answer is BROOK
 Score: 5
 ```
 
-To check the average score is indeed 3.67, run `main.py`
+To check the average score is indeed 3.64, run `main.py`
 
 The program will play wordle against itself, looping through every possible answer:
 
