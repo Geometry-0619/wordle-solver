@@ -1,15 +1,15 @@
 # wordle-solver
-A simple program that solves the wordle game with an average score of 3.64
+A simple program that solves the wordle game with an average score of 3.64.
 
 The game can be played at https://bosorioo.github.io/wordle-unlimited/
 
 The program suggests the best next guess based on information entropy and filters possible answers according to the feedback colors.
 
-The optimal guess will be displayed with its expected information
+The optimal guess will be displayed with its expected information.
 
-`wordle.py` contains basic functions to help solving the wordle game
+`wordle.py` contains basic functions to help solving the wordle game.
 
-`solver.py` suggests the current optimal word
+`solver.py` suggests the current optimal word.
 
 example usage:
 
